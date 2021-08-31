@@ -3,4 +3,3 @@
 
 - 💻 Today I work with Data Science and Automation projects 💻
 - 🐍 Studying Python 🐍
--->
