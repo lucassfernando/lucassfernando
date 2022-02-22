@@ -2,8 +2,11 @@
 ### My name is Lucas Fernando 😄 
 
 - 💻 I love programming 💻
--      Studying 
+-   
+-   ✨ Studying ✨
+-   
 -   🐍 Python 🐍
 - 👨🏻‍💻 Data Science 👨🏻‍💻
 -  🤖 Automation 🤖
-- 
+
+-And always a little more... 🤓
