@@ -8,5 +8,6 @@
 -   🐍 Python 🐍
 - 👨🏻‍💻 Data Science 👨🏻‍💻
 -  🤖 Automation 🤖
+-    📱 Flutter 📱
 
 -And always a little more... 🤓
