@@ -5,8 +5,4 @@
 -   
 -   ✨ Studying ✨
 -   
--   🐍 Python 🐍
-- 👨🏻‍💻 Data Science 👨🏻‍💻
--  🤖 Automation 🤖
-
--And always a little more... 🤓
+          🤓
