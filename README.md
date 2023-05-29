@@ -2,7 +2,9 @@
 ### My name is Lucas Fernando <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 #
+<p align='center'><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="192" /></p>
   I love programming 💻
+
 - **I'm a software engineer looking to learn and have fun.**
 
  Trivia about me 🤔
