@@ -10,7 +10,7 @@
  Trivia about me 🤔
 -  **I like to develop projects focusing on the backend**
 -  **I want to travel the world**
--  **My favorite instrument is the violin**
+-  **I'm in love with motorcycles**
 
 ## :fire: My Github Contribution
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lucassfernando&theme=violet-punch)
