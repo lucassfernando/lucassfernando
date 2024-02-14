@@ -9,8 +9,8 @@
 
  Trivia about me 🤔
 -  **I like to develop projects focusing on the backend**
--  **I want to travel the world**
--  **I'm in love with motorcycles**
+-  **Dream of traveling the world**
+-  **A part of me dreams of creating a startup**
 
 ## :fire: My Github Contribution
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lucassfernando&theme=violet-punch)
