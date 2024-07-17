@@ -1,6 +1,9 @@
 ### Hello World 🌍
 ### My name is Lucas Fernando <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<a href="https://dev.to/lucassfernando" ><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/lucas-fernando-773a70209/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 #
 
   I love programming 💻
